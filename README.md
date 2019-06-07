@@ -1,6 +1,6 @@
 # Eggs Pygame
 <b>EGGS Pong</b></br>
-Our eggs pong game is based on the pong game.
+Is based on the pong game.
 The game was originally developed by Allan Alcorn and released in 1972 by Atari corporations.
 Pong is one of the first computer games that ever created, this simple "tennis like" game features two paddles and a ball, the goal is to defeat your opponent by being the first one to gain 10 points, a player gets a point once the opponent misses an ball.
 The game can be played with one human player with controlled paddle.
